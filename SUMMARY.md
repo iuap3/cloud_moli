@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [产品介绍](intro.md)
   * [产品概述](articles/moli/1-/gaishu.md)
   * [特性介绍](articles/moli/1-/features.md)
