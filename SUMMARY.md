@@ -5,7 +5,7 @@
   * [特性介绍](articles/moli/1-/features.md)
   * [典型场景](articles/moli/1-/scenario.md)   
 * [版本更新](articles/moli/3-/) 
-  * [版本更新](articles/moli/3-/release.md)   
+  * [版本历程](articles/moli/3-/release.md)   
 * [用户手册](manual.md)
   * [进入模板商城](articles/moli/2-/summary.md)
   * [使用应用模板](articles/moli/2-/templates.md)
