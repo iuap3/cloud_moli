@@ -1,8 +1,6 @@
-# Release Notes
+# 产品发布历史
 
-## v3.0
-
-Release Date：2017年12月21日
+## v3.0-20171221 Moli
 
 新增功能：
 
